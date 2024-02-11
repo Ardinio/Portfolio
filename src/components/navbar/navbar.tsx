@@ -19,7 +19,7 @@ function Navbar() {
                 Contact Me
             </button>
         </nav>
-    )
+    );
 }
 
 export default Navbar
