@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from "react";
+import React, { useRef } from "react";
 import './contact.css';
 import Company from '../../assets/Company.png';
 import Shibuya from '../../assets/Shibuya.jpg';
