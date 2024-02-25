@@ -16,14 +16,14 @@ function Skills() {
                     <img src={Development} alt="Programming" className="skillBarImg" />
                     <div className="skillBarText">
                         <h2>Programming</h2>
-                        <p>This is a demo text, change later</p>
+                        <p>I am a skilled programmer when it comes to backend applications. But I also know how to make good website like this one.</p>
                     </div>
                 </div>
                 <div className="skillBar">
                     <img src={IT} alt="IT" className="skillBarImg" />
                     <div className="skillBarText">
                         <h2>IT technician</h2>
-                        <p>This is demo text, chnage later</p>
+                        <p>I am a skilled IT technician where I know a lot about computers, network and servers. I know how computers works and the operating system like Windows and Linux.</p>
                     </div>
                 </div>
             </div>

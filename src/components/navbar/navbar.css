@@ -56,6 +56,9 @@
 
 .mobMenu {
     display: none;
+    background: white;
+    border: none;
+    border-radius: 2rem;
     object-fit: cover;
     height: 1.8rem;
 }

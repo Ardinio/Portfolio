@@ -17,11 +17,11 @@ function Works() {
             </span>
             <div className="worksImgs">
                 <a href="https://github.com/Ardinio/Dator_experten"> <img src={Portfolio1} alt="myGithubRep" className="worksImg" /> </a>
-                <a href="https://github.com/Ardinio/Dator_experten"> <img src={Portfolio2} alt="myGithubRep" className="worksImg" /> </a>
-                <a href="https://github.com/Ardinio/Dator_experten"> <img src={Portfolio3} alt="myGithubRep" className="worksImg" /> </a>
-                <a href="https://github.com/Ardinio/Dator_experten"> <img src={Portfolio4} alt="myGithubRep" className="worksImg" /> </a>
-                <a href="https://github.com/Ardinio/Dator_experten"> <img src={Portfolio5} alt="myGithubRep" className="worksImg" /> </a>
-                <a href="https://github.com/Ardinio/Dator_experten"> <img src={Portfolio6} alt="myGithubRep" className="worksImg" /> </a>
+                <a href="https://github.com/Ardinio/Portfolio"> <img src={Portfolio2} alt="myGithubRep" className="worksImg" /> </a>
+                <a href="https://github.com/Ardinio/Kalender"> <img src={Portfolio3} alt="myGithubRep" className="worksImg" /> </a>
+                <a href="https://github.com/Ardinio/Hush-llesyslor"> <img src={Portfolio4} alt="myGithubRep" className="worksImg" /> </a>
+                <a href="https://github.com/Ardinio/SImpel_Calculator"> <img src={Portfolio5} alt="myGithubRep" className="worksImg" /> </a>
+                <a href="https://github.com/Ardinio/Shadows_Approach"> <img src={Portfolio6} alt="myGithubRep" className="worksImg" /> </a>
             </div>
         </section>
     );
