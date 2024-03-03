@@ -12,8 +12,8 @@ function Works() {
         <section id='works'>
             <h2 className="workstitle">My Portfolio</h2>
             <span className="worksDesc">
-                I take pride in every project I work with I pay attention to details and make sure that every project is unique.
-                My strongest attribute is that I will work on a project and always find a solution for any problem that stands in my way.
+                I take pride in every project I work with I pay attention to details and make sure that every project has there own unique feeling.
+                My strongest attribute is that I will work on a project and always find a solution for any problem that comes up.
             </span>
             <div className="worksImgs">
                 <a href="https://github.com/Ardinio/Dator_experten"> <img src={Portfolio1} alt="myGithubRep" className="worksImg" /> </a>
