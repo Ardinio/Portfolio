@@ -9,7 +9,7 @@ function Skills() {
             <span className="skillTitle">What I do</span>
             <span className="skillDesc">
                 I am skilled at creating backend applications and software, I can also work with IT related systems and software too.
-                I have a great understanding how programming and computers works, I know to make easy to use applications and I can handle any computer related problems, and also servers.
+                I have a great understanding how programming and computers works, I know to make easy to use applications and I can handel any computer related problems, and also servers.
             </span>
             <div className="skillBars">
                 <div className="skillBar">

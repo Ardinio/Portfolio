@@ -12,7 +12,7 @@ function Intro() {
                 <span className="introText">I'm <span className="introName">Ardi</span> 
                 <br />System Developer and IT Technician </span>
                 <p className="introPara">
-                    I'm a software developer with experience in creating backend applications <br /> I am also a skilled IT technician.
+                    I'm a software developer with experience in creating backend applications <br /> I'm also a skilled IT technician.
                 </p>
                 <Link> <button className="btn"> <img src={btnImg} alt="Hire me" className="btnImg"/>Hire Me </button> </Link>
             </div>
